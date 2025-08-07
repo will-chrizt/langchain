@@ -1,0 +1,7 @@
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and act like humans. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.
+
+There are two types of AI: narrow AI, which is designed for a specific task, and general AI, which can perform any intellectual task that a human can do. Examples of narrow AI include voice assistants like Alexa or Siri, and recommendation systems on platforms like Netflix or Amazon.
+
+AI has applications in healthcare, finance, transportation, and many other industries. In healthcare, AI helps in diagnosing diseases, personalizing treatment, and managing patient data. In finance, AI is used for fraud detection, risk assessment, and algorithmic trading.
+
+Despite its benefits, AI also raises ethical concerns, such as data privacy, job displacement, and decision-making transparenc
